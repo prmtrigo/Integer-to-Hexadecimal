@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\bin\Debug\net7.0\Integer-to-Hexadecimal.exe
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\bin\Debug\net7.0\Integer-to-Hexadecimal.deps.json
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\bin\Debug\net7.0\Integer-to-Hexadecimal.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\bin\Debug\net7.0\Integer-to-Hexadecimal.dll
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\bin\Debug\net7.0\Integer-to-Hexadecimal.pdb
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\obj\Debug\net7.0\Integer-to-Hexadecimal.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\obj\Debug\net7.0\Integer-to-Hexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\obj\Debug\net7.0\Integer-to-Hexadecimal.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\obj\Debug\net7.0\Integer-to-Hexadecimal.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\obj\Debug\net7.0\Integer-to-Hexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\obj\Debug\net7.0\Integer-to-Hexadecimal.dll
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\obj\Debug\net7.0\refint\Integer-to-Hexadecimal.dll
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\obj\Debug\net7.0\Integer-to-Hexadecimal.pdb
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\obj\Debug\net7.0\Integer-to-Hexadecimal.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Integer-to-Hexadecimal\obj\Debug\net7.0\ref\Integer-to-Hexadecimal.dll
